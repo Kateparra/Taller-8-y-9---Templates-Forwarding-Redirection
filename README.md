@@ -16,3 +16,8 @@
 [ejecutarpara la aplicación,se nesecita configurar la conexión a la base de datos con el siguiente contenido:] (private static final String URL= "jdbcmysql://localhost:3306/my_database serverTimezone=America/Bogota";)
 
 *Formularios:
+
+![image](https://github.com/Kateparra/Taller-8-y-9---Templates-Forwarding-Redirection/assets/128449316/79670486-ab95-4319-82eb-4188b854e157)
+![image](https://github.com/Kateparra/Taller-8-y-9---Templates-Forwarding-Redirection/assets/128449316/86bd04ea-46a1-4794-a906-1a54412748a5)
+![image](https://github.com/Kateparra/Taller-8-y-9---Templates-Forwarding-Redirection/assets/128449316/e4b7107e-bb96-406c-a5db-97ed4e5c7b9b)
+
